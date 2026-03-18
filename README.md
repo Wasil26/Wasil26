@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Wasil Siddiqui 👋
 
-<!--
-**Wasil26/Wasil26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Economics Student @ Wilfrid Laurier University**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm a first-year Economics student at Wilfrid Laurier University with a passion for data analysis and quantitative problem-solving. I enjoy using data tools to explore economic trends, model real-world problems, and tell compelling stories with numbers.
+
+- 🎓 **Program:** Bachelor of Arts, Economics --> Wilfrid Laurier University
+- 📍 **Location:** Ontario, Canada
+- 🔍 **Interests:** Economic analysis, data visualization, financial modelling
+
+---
+
+## 🛠️ Skills & Tools
+
+| Category | Tools |
+|---|---|
+| **Data Analysis** | Python · R · Excel |
+| **Data Visualization** | Tableau · Power BI |
+| **Other** | Git · GitHub |
+
+---
+
+## 📚 Coursework
+
+Currently building a foundation in:
+
+- Microeconomics & Macroeconomics
+- Quantitative Methods & Statistics
+- Economic Theory & Modelling
+
+---
+
+## 🚀 What I'm Working On
+
+- Building my data analysis skills through personal projects
+- Learning to apply Python and R to real economic datasets
+- Developing dashboards and visualizations using Tableau and Power BI
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/wasil-siddiqui)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+*Always learning. Always improving.*
